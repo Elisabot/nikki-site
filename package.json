@@ -1,0 +1,15 @@
+{
+  "name": "nikki-site",
+  "version": "1.0.0",
+  "description": "portfolio website for Nikki Leeper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elisabot",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "materialize-css": "^0.97.3"
+  }
+}
