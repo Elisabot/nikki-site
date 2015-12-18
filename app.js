@@ -1,1 +1,1 @@
-angular.module('portfolioSite', []);
+angular.module('portfolioApp', []);
